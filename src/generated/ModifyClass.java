@@ -109,10 +109,6 @@ public class ModifyClass {
 	 
 	}
 	
-	public void calculateavg(Book data)
-	{
-		
-		
-	}
+
 }
 
